@@ -32,7 +32,7 @@
     <div class="col-md-7">
         <div class="product">
         <p>
-            Welcome to HestaMail services
+            Welcome to HestaMail
         </p>
             <div class="newLogo1">
                 <img src="images/newlogo.png" id="newlogo">
